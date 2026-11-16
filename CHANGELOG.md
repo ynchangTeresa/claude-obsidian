@@ -7,6 +7,10 @@ implementation record for older releases.
 
 ## [Unreleased]
 
+### Added
+
+- `SECURITY_MODEL.md`: threat model (trust boundaries, components, entry points, assets, attacker profiles, controls) used to triage security scan findings.
+
 ## [2.2.0] - 2026-09-10
 
 Backlog triage: lint scoping, lock recovery, host validation, the `bin/`
